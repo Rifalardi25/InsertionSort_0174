@@ -74,6 +74,7 @@ int main()
 {
     input();
     insertionSort();
+    display();
     
     
 }
